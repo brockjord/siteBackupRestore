@@ -1,0 +1,6 @@
+user: wp_username
+core config:
+	dbuser: db_username
+	dbpass: db_password
+apache_modules: 
+	 - mod_rewrite
